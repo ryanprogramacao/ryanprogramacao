@@ -1,16 +1,20 @@
-### Hi there 👋
+# Perfil
 
-<!--
-**ryanprogramacao/ryanprogramacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nome
+Ryan
 
-Here are some ideas to get you started:
+## Onde Estuda
+Tânia Varella
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagem de Programação Favorita
+Markdown
+
+## Idiomas
+- Português
+- Inglês
+
+## E-mail para Contato
+henriqueolli150@gmail.com
+
+## Imagem ou Gif
+![Alt Text](https://pin.it/5aB2ZKC)
